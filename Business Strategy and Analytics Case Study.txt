@@ -3,18 +3,25 @@ First Case Study:
 This is a research proposal. We are looking at your ability to think logically as well as do research on the internet.
 You are given P&L (profit and loss) responsibility of a segment at Ruby Card Finance Limited. This is like a CEO position.
 The company issues credit cards to blue collar workers (like Swiggy delivery boys), SME business owners (like a shop keeper) etc. 
-The segment you are given control of is called ‘Good bureau high volume transactors’.
+The segment you are given control of is called â€˜Good bureau high volume transactorsâ€™.
 However, there is a problem - You can see that month on month your loss rates are creeping up in this segment by annualized 100 basis points, 
 and you need to turn around the profitability of this segment in the next three months.
 List down ALL the questions that you need answers for to successfully craft a strategy to increase profitability of this segment.
 For each question:
-•  list MULTIPLE potential answers
-o For each answer, mention the rupee value of that answer. Rupee value of the answer is simply "the cost impact to your overall strategy, if this answer were actually correct".    Remember, some answers may not be correct, but the rupee value of that answer may be high. For example, one answer can be "ask Finance Minister of India to compensate    Ruby Card if delivery boys have failed to repay loan". The probability of this answer being correct is very low... but the rupee value of this answer is VERY HIGH!! Please    remember, do not simply say "rupee value is high", we need the value per 100 rupee of business.
+â€¢  list MULTIPLE potential answers
+o For each answer, mention the rupee value of that answer. Rupee value of the answer is simply "the cost impact to your overall strategy, 
+  if this answer were actually correct".    Remember, some answers may not be correct, but the rupee value of that answer may be high. For example, 
+  one answer can be "ask Finance Minister of India to compensate    Ruby Card if delivery boys have failed to repay loan". The probability of this answer
+  being correct is very low... but the rupee value of this answer is VERY HIGH!! Please    remember, do not simply say "rupee value is high", 
+  we need the value per 100 rupee of business.
 o For each answer, mention the probability that answer being correct. Please give us a number value of estimated probability.
-o In addition, mention how YOU will increase this probability. This is a critical part of strategy and we will be evaluating this closely. This is the place where you should think    outside the box - bring an element of "jugaad" when you are trying to increase probability here.
+o In addition, mention how YOU will increase this probability. This is a critical part of strategy and we will be evaluating this closely. 
+  This is the place where you should think outside the box - bring an element of "jugaad" when you are trying to increase probability here.
 o IMPORTANT: An answer can also have a sub question in it. The best strategies that we have seen from people have very deep levels of sub questions!
-o To get these questions, do industry research (or read reports) for the same. Please link/cite the reports you have read to create these questions. If you want data, then you should l  ook at industry/market reports. Don’t ask us for anything.
-o IMPORTANT: the quality of the questions is an important factor for selection. So please don’t try to avoid hard questions - that will guarantee that you will not be shortlisted. 
+o To get these questions, do industry research (or read reports) for the same. Please link/cite the reports you have read to create these questions.
+  If you want data, then you should l  ook at industry/market reports. Donâ€™t ask us for anything.
+o IMPORTANT: the quality of the questions is an important factor for selection. So please donâ€™t try to avoid hard questions - 
+  that will guarantee that you will not be shortlisted. 
 Examples of bad questions are "what is a credit card", "what are transactors and revolvers", "how does a credit card make money"
 
 
@@ -23,19 +30,22 @@ Second Case Study:
 This is a case study analytical question.
 
 The Case Study
-Analyzing an affinity credit card (special card only available to members of a specific group). Think of it like this - the credit card company is like Citibank and the affiliated group is a company like Indian Oil or Barista. The affiliated group has to pay some fees to Credit Card Company (because the credit card company is providing this service to the group)
+Analyzing an affinity credit card (special card only available to members of a specific group). Think of it like this - 
+the credit card company is like Citibank and the affiliated group is a company like Indian Oil or Barista. The affiliated 
+group has to pay some fees to Credit Card Company (because the credit card company is providing this service to the group)
 
 Facts:
-• average card balance is Rs 1000
-• each card has an interest rate of 15%
-• membership fee is Rs 20 per card
-• loss rate is 3% (NOTE: what are the interpretations of this ? state your assumption CLEARLY when solving )
-• Rs 25 operating cost per card
-• Rs 10 affiliation fee per card (cost to the group organization itself, so that their members get this awesome card program)
-• 6.5% cost of funds (that credit card company must pay to the bank where it gets money)
-• bill/statement is issued on 1st of every month
-• Credit-free period = 15 days from the bill/statement issue date.
-There are two scenarios and all the following questions must be answered for both scenarios. There might be some terminology that may not be familiar to you. This is expected. We want to see if you can research and find out about them and then answer these questions.
+â€¢ average card balance is Rs 1000
+â€¢ each card has an interest rate of 15%
+â€¢ membership fee is Rs 20 per card
+â€¢ loss rate is 3% (NOTE: what are the interpretations of this ? state your assumption CLEARLY when solving )
+â€¢ Rs 25 operating cost per card
+â€¢ Rs 10 affiliation fee per card (cost to the group organization itself, so that their members get this awesome card program)
+â€¢ 6.5% cost of funds (that credit card company must pay to the bank where it gets money)
+â€¢ bill/statement is issued on 1st of every month
+â€¢ Credit-free period = 15 days from the bill/statement issue date.
+There are two scenarios and all the following questions must be answered for both scenarios. There might be some terminology that 
+may not be familiar to you. This is expected. We want to see if you can research and find out about them and then answer these questions.
 For the below, two scenarios provide a monthly calculation of profits/losses
 
 Scenario 1:
@@ -51,25 +61,32 @@ iii) Membership grows at 5% month on month.
 iv) Card balance grows at 5% per month for each member.
 v) The average card balance is the average end of month balance.
 
-Consider 1000 customers for both the scenario, divide these 1000 customers into following groups(upon your assumption and understanding about the credit lending industry)
+Consider 1000 customers for both the scenario, divide these 1000 customers into following groups(upon your assumption and 
+understanding about the credit lending industry)
 1.customers who pay the bill within the credit-free period
 2.customers paying 30 days after the last due date
 3.customer paying 45 days after the last due date
-4.customer paying 60 days after the last due date(remove these customers for the complete calculation of the next month, basically, you are not supposed to provide further credit services to these customers)
+4.customer paying 60 days after the last due date(remove these customers for the complete calculation of the next month, 
+basically, you are not supposed to provide further credit services to these customers)
 
 Answer the following for both scenarios.
 Q1: How much profit % is generated in 1 year?
 
-Q2: The 3% loss rate can either mean either 3% of the outstanding balance defaults or 3% of the borrowers default on their entire balance. If the average balance is increased to $2000, what happens to the loss?
+Q2: The 3% loss rate can either mean either 3% of the outstanding balance defaults or 3% of the borrowers default on their entire balance. 
+If the average balance is increased to $2000, what happens to the loss?
 
 Q3: Is a borrower with a low balance more or less likely to default then a borrower with a high balance? Why? Explain clearly
 
-Q4: The group company has now become unhappy with the credit card provider. It wants to start its own credit card. But for that, it will need to purchase the customers from the current credit card company. If the affiliated group offered Rs 20 per account to purchase all the customers from the credit card company, what would there profit be? (Assume that we are only talking about 1 year)
-Q5: What numbers can the financial institution change to convince the affiliated group not to want to purchase, while still not going into a loss? Give a range of what the new numbers are (min and max)
+Q4: The group company has now become unhappy with the credit card provider. It wants to start its own credit card. But for that, it will 
+need to purchase the customers from the current credit card company. If the affiliated group offered Rs 20 per account to purchase all the 
+customers from the credit card company, what would there profit be? (Assume that we are only talking about 1 year)
+Q5: What numbers can the financial institution change to convince the affiliated group not to want to purchase, while still not going into 
+a loss? Give a range of what the new numbers are (min and max)
 
 Q6: What is the extra cost (if any) company will have to incur if the customer delays the payment of the credit card bill after the due date?
 
-Q7: Is it beneficial for the company if the customer pays the credit card bill after the due date? (Express your views as a business strategy analyst with a short example)
-For the below question consider yourself as a credit risk manager.
-Which information variables you will use to calculate the credit card limit and the risk associated with it for an individual customer? Also, give the reason for your choice. (Example-Bureau score)
+Q7: Is it beneficial for the company if the customer pays the credit card bill after the due date? (Express your views as a business 
+strategy analyst with a short example)For the below question consider yourself as a credit risk manager.
+Which information variables you will use to calculate the credit card limit and the risk associated with it for an individual customer? 
+Also, give the reason for your choice. (Example-Bureau score)
 
